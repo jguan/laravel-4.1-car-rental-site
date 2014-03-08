@@ -10,6 +10,8 @@ This Car Rental Site is a full functional application with Laravel 4.1.
 * Book selected car with pick up and drop off date
 * Check booking status and cancel pending booking by user
 * Cars, car types and bookings management for Admin
+ 
+**Live Demo:** <http://carrental.jeremyguan.com/>
 
 ## Laravel PHP Framework
 
